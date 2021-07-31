@@ -10,7 +10,6 @@
 * Product/Several projects?
 * How old is the project?
 * What is the common type of the tasks on project (bug fixing, features)?
-* What are the skills and experiences you’re looking for in an ideal candidate?
 * Can you show me examples of projects I’d be working on?
 
 ## About the Role and Team
@@ -18,6 +17,7 @@
 * Is this a new role that has been created?
 * What's my main responsibility would be?
 * Do you expect the main responsibilities for this position to change in the next six months to a year?
+* What are the skills and experiences you’re looking for in an ideal candidate?
 * Can you tell me about the team I’ll be working with?
 * What size of the team?
 * How many QA's do you have in team?
