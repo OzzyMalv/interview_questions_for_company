@@ -29,7 +29,8 @@
 * What gets you most excited about the company’s future?
 * Can you tell me about the last team event you did together?
 
-## About the Performance
+## About the Performance and Future
 
 * How often and what is the performance review process like here?
-
+* What about payment options like [Employee Stock Option](https://www.investopedia.com/terms/e/eso.asp) or 
+[Restricted Stock Unit](https://www.investopedia.com/terms/r/restricted-stock-unit.asp)
