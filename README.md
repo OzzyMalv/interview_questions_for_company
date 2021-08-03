@@ -22,7 +22,7 @@
 * What size of the team?
 * How many QA's do you have in team?
 
-## About Company and Culture
+## About the Company and Culture
 
 * What can you tell me about your new products or plans for growth?
 * What’s different about working here than anywhere else you’ve worked?
