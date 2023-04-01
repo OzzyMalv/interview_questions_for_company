@@ -4,6 +4,11 @@
 
 > Questions about a salary fork, should be asked even before interview
 
+## Top
+
+* Who is the best candidate for the job? What's your picture of perfect fit for this role?
+* How old is the project? What do you doing\planning to do?
+
 ## About the Job
 
 * What is the processes of work (agile, kanban)?
