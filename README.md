@@ -8,6 +8,7 @@
 
 * Who is the best candidate for the job? What's your picture of perfect fit for this role?
 * How old is the project? What do you doing\planning to do?
+* What's your business idea ? (if product company)
 
 ## About the Job
 
