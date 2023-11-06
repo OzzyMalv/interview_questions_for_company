@@ -13,7 +13,7 @@
 ## About the Job
 
 * What is the processes of work (agile, kanban)?
-* Product/Several projects?
+* Product/Several projects? What is the target cutomer user?
 * How old is the project?
 * What is the common type of the tasks on project (bug fixing, features)?
 * Can you show me examples of projects I’d be working on?
