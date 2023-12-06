@@ -6,7 +6,7 @@
 
 ## Top
 
-* if you would hire me today in what kind of work I will be more effective at? What do u think?
+* If you would hire me today in what kind of work I will be more effective at? What do u think?
 * Who is the best candidate for the job? What's your picture of perfect fit for this role?
 * How old is the project? What do you doing\planning to do?
 * What's your business idea ? (if product company)
