@@ -19,6 +19,7 @@
 
 * What is the processes of work (agile, kanban)?
 * Product/Several projects? What is the target cutomer user?
+* What's your technical stack?
 * How old is the project?
 * What is the common type of the tasks on project (bug fixing, features)?
 * Can you show me examples of projects I’d be working on?
