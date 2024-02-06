@@ -47,6 +47,8 @@
 * What about payment options like [Employee Stock Option](https://www.investopedia.com/terms/e/eso.asp) or 
 [Restricted Stock Unit](https://www.investopedia.com/terms/r/restricted-stock-unit.asp)?
 
-TODO: actively looking?
-TODO: priority
-TODO: bonuses 
+TODO
+* TODO: actively looking?
+* TODO: priority
+* TODO: bonuses 
+* TODO: Layoffs ?
