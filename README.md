@@ -2,7 +2,7 @@
 
 *(From dev perspective)
 
-> Questions about a salary fork, should be asked even before interview
+> Questions about a salary fork, should be asked even before interviews!
 
 ## Top
 
