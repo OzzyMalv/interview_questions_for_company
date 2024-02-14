@@ -48,6 +48,7 @@
 [Restricted Stock Unit](https://www.investopedia.com/terms/r/restricted-stock-unit.asp)?
 
 TODO
+* TODO: Interview process ?
 * TODO: actively looking?
 * TODO: priority
 * TODO: bonuses 
