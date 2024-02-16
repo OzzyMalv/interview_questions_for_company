@@ -53,3 +53,4 @@ TODO
 * TODO: priority
 * TODO: bonuses 
 * TODO: Layoffs ?
+* TODO: visa
