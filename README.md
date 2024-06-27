@@ -9,6 +9,7 @@
 * Who is the best candidate for the job? What's your picture of perfect fit for this role?
 * How old is the project? What do you doing\planning to do?
 * What's your business idea ? (if product company)
+* Do you like your current job at this company?
 
 ## Top at the end 
 
@@ -50,7 +51,7 @@
 TODO
 * TODO: Interview process ?
 * TODO: actively looking?
-* TODO: priority
-* TODO: bonuses 
+* TODO: priority ?
+* TODO: bonuses ?
 * TODO: Layoffs ?
 * TODO: visa/contract/permit
