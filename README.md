@@ -55,3 +55,4 @@ TODO
 * TODO: bonuses ?
 * TODO: layoffs ?
 * TODO: visa/contract/permit
+* TODO: change to whom qustions are most related to 
