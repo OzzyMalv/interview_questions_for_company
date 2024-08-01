@@ -1,6 +1,6 @@
 # Questions to Ask in an Interview *
 
-*(From dev perspective)
+*(From engineer/tech interview perspective)
 
 > Questions about a salary fork, should be asked even before interviews!
 
