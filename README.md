@@ -4,6 +4,10 @@
 
 > Questions about a salary fork, should be asked even before interviews!
 
+## HR call
+
+* What's the main responsibility and position priorities?  
+
 ## Top
 
 * Who is the best candidate for the job? What's your picture of perfect fit for this role?
