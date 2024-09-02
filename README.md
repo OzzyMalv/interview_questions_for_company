@@ -19,7 +19,6 @@
 
 * If you would hire me today in what kind of work I will be more effective at? What do u think?
 
-
 ## About the Job
 
 * What is the processes of work (agile, kanban)?
@@ -37,7 +36,7 @@
 * What are the skills and experiences you’re looking for in an ideal candidate?
 * Can you tell me about the team I’ll be working with?
 * What size of the team?
-* How many QA's do you have in team?
+* How many QA's do you have in team? What is usual team structure looks like?
 
 ## About the Company and Culture
 
